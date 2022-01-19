@@ -12,7 +12,7 @@ theme-color: indigo # indigo|yellow|pink|green|stone|
 # homepage information
 author: John Doe
 author-bio: Designer and Woodworker  # change to false to hide
-author-image: 279.png  # file must be in the /assets/img/ folder
+author-image: johndoe.jpeg  # file must be in the /assets/img/ folder
 
 # navigation menu
 show-nav-menu: true
@@ -28,9 +28,9 @@ nav-menu:
 # use false to turn off any social media links
 twitter: https://twitter.com/
 facebook: https://facebook.com/
-instagram: https://instagram.com/
+instagram: false
 github: https://github.com/
-linkedin: https://linkedin.com/
+linkedin: false
 medium: false
 email: false
 
